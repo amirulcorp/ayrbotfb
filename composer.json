@@ -1,0 +1,20 @@
+{
+    "name": "amirulcorp/ayrbotfb",
+    "description": "PHP Curl Facebook Untuk Termux",
+    "type": "library",
+    "license": "CC-BY-4.0",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "amirulcorp",
+            "email": "amirull.corp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "amirulcorp\\ayrbotfb\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
